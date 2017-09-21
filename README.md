@@ -25,5 +25,6 @@ Project 3 in Udacity self-driving car nanodegree: train neural network to steer 
 
      python drive.py model.h5
 
+* Alternatively, download  and play video.mp4
  
 
