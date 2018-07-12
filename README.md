@@ -1,5 +1,7 @@
 # Behavioral Cloning
-Project 3 in Udacity self-driving car nanodegree: train neural network to steer a wheel in a racing track,
+Project 3 in Udacity self-driving car nanodegree: train neural network to steer a wheel in a racing track
+
+[![Behavioral Cloning](http://img.youtube.com/vi/1DZYtqPR0Iw/0.jpg)](https://youtu.be/1DZYtqPR0Iw "Behavioral Cloning")
 
 ## Setup
 
