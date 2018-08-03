@@ -1,7 +1,9 @@
 # Behavioral Cloning
 Project 3 in Udacity self-driving car nanodegree: train neural network to steer a wheel in a racing track
 
-![Behavioral_cloning](./images/behavior_cloning_gif.gif)
+[![simulator test](images/test_screenshot.png)](https://www.youtube.com/watch?v=NOovdYStrSw)   
+
+Description of our implementation is available [here](writeup_report.md).
 
 ## Setup
 
